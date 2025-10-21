@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=["../bieldev22/Git/banner.png]" alt="Banner" width="1060"/>
+  <img src="bannerGit.png" alt="Banner" width="1060"/>
 </p>
 
 <table>
